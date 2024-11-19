@@ -8,7 +8,7 @@
 
 📫 Please feel free to contect me on LinkedIn or through my website:
 
-https:/www.linkedin.com/in/cainepavlosky008
+www.linkedin.com/in/cainepavlosky008
 
 https://surelynot.pythonanywhere.com/
 
