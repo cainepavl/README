@@ -1,4 +1,4 @@
-<img align="left" width="250" height="250" src="https://github.com/user-attachments/assets/0f0fad0f-c401-47e0-a1c6-6fd1b43afff4">
+<img align="center" width="300" height="300" src="https://github.com/user-attachments/assets/0f0fad0f-c401-47e0-a1c6-6fd1b43afff4">
 
 
 
@@ -10,10 +10,8 @@
       
   💞️ I’m looking to bring my skills to an organization that values their talent!
       
-  🔭 I’m currently working on my portfolio website: 
-             
-  🐍 [My Website](https://surelynot.pythonanywhere.com/)
-      
+  🔭 I’m currently working on my portfolio website:  🐍 [My Website](https://surelynot.pythonanywhere.com/)
+                
   ⚡ Fun fact: I am a MEAN cook! 🔥 ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
