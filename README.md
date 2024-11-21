@@ -6,13 +6,13 @@
       
   👀 I’m interested in all things IT! 🖥️ I have experience in IT Instruction, IT Support, Cybersecurity, and now I'm working on learning Software Development...
       
-  🌱 I’m currently learning Python and Dart with C# and Unity up next.💡 I plan to develop my first app shortly...
+  🌱 I’m currently learning Python and Dart with C# and Unity up next.💡 I plan to develop my first app shortly... ⏲️
       
   💞️ I’m looking to bring my skills to an organization that values their talent!
       
-  🔭 I’m currently working on my portfolio website:  🐍 [My Website](https://surelynot.pythonanywhere.com/)
+  🔭 I’m currently working on my portfolio website:  🐍 [My Website](https://surelynot.pythonanywhere.com/) 🐍
                 
-  ⚡ Fun fact: I am a MEAN cook! 🔥 ...
+  ⚡ Fun fact: I am a MEAN cook! 🔥 🔥 🔥
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cainepavlosky008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cainepavlosky008" height="30" width="40" /></a>
