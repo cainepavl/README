@@ -1,6 +1,5 @@
 <img align="center" width="300" height="300" src="https://github.com/user-attachments/assets/0f0fad0f-c401-47e0-a1c6-6fd1b43afff4">
 
-<img align="right" width="290" height="160" src="https://github.com/cainepavl/README/blob/main/code.mp4">
 
   👋 Hi, I’m @cainepavl and this is my best friend Annie! 🐶
       
