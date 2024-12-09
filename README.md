@@ -1,8 +1,10 @@
-<img align="left" width="300" height="300" src="https://github.com/user-attachments/assets/0f0fad0f-c401-47e0-a1c6-6fd1b43afff4">
 
-<img align="right" width="300" height="300" src="">
+<p float=left">
+<img src="https://github.com/user-attachments/assets/0f0fad0f-c401-47e0-a1c6-6fd1b43afff4" width="400" height="300" />
+<img src="https://github.com/cainepavl/README/blob/main/wake.gif" width="400" height="300"/>
+</p>
 
-<br/><br/>
+
   👋 Hi, I’m @cainepavl and this is my best friend Annie! 🐶
       
   👀 I’m interested in all things IT! 🖥️ I have experience in IT Instruction, IT Support, Cybersecurity, and now I'm working on learning Software Development...
