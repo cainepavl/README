@@ -9,7 +9,7 @@
       
   👀 I’m interested in all things IT! 🖥️ I have experience in IT Instruction, IT Support, Cybersecurity, and now I'm working on learning Software Development...
       
-  🌱 I’m currently learning Python and Dart with C# and Unity up next.💡 I plan to develop my first app shortly... ⏲️
+  🌱 I’m currently learning Python and Unity while keeping my certs active.💡 I plan to learn VR development soon... ⏲️
       
   💞️ I’m looking to bring my skills to an organization that values their talent!
       
