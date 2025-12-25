@@ -7,9 +7,9 @@
 
   👋 Hi, I’m @cainepavl and this is my best friend Annie! 🐶
       
-  👀 I’m interested in all things IT! 🖥️ I have experience in IT Instruction, IT Support, Cybersecurity, and now I'm working on learning Software Development...
+  👀 I’m interested in all things IT! 🖥️ I have experience in IT Support, Database Management, IT Instruction, and Cybersecurity...
       
-  🌱 I’m currently learning Python and Unity while keeping my certs active.💡 I plan to learn VR development soon... ⏲️
+  🌱 I’m currently learning Python and Bash while keeping my certs active.💡 I plan to learn about Linux administration as Windows becomes agentic... ⏲️
       
   💞️ I’m looking to bring my skills to an organization that values their talent!
       
